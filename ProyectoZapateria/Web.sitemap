@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+	<siteMapNode url="~/Inicio.aspx" title="Inicio" description="Página de inicio">
+		<siteMapNode url="~/Productos.aspx" title="Productos" description="Administrador de productos" />
+		<siteMapNode url="~/Usuarios.aspx" title="Usuarios" description="Administrador de usuarios" />
+		<siteMapNode url="~/Contacto.aspx" title="Contacto" description="Página de contacto" />
+		<siteMapNode url="~/Account/Login.aspx" title="Login" description="Página de inicio de sesión" />
+		<siteMapNode url="~/Account/Register.aspx" title="Registrar" description="Página de registro de usuario" />
+		<siteMapNode url="~/Account/Manage.aspx" title="Gestionar cuenta" description="Página de gestión de cuenta de usuario" />
+		<siteMapNode url="~/Account/Logout.aspx" title="Cerrar sesión" description="Página para cerrar sesión" />
+	</siteMapNode>
+</siteMap>
+
+

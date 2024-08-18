@@ -1,0 +1,13 @@
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\bin\Debug\ZapateriaBF.dll.config
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\bin\Debug\ZapateriaBF.dll
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\bin\Debug\ZapateriaBF.pdb
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\bin\Debug\EntityFramework.dll
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\bin\Debug\ZapateriaDAL.dll
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\bin\Debug\ZapateriaDAL.pdb
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\bin\Debug\ZapateriaDAL.dll.config
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\bin\Debug\EntityFramework.xml
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\obj\Debug\ZapateriaBF.csproj.AssemblyReference.cache
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\obj\Debug\ZapateriaBF.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\obj\Debug\Zapateri.F1EAE2FF.Up2Date
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\obj\Debug\ZapateriaBF.dll
+C:\Users\ivanb\source\repos\ProyectoZapateria\ZapateriaBF\obj\Debug\ZapateriaBF.pdb

@@ -1,0 +1,37 @@
+-- Crear la base de datos zapateria
+CREATE DATABASE zapateria;
+GO
+
+-- Seleccionar la base de datos zapateria
+USE zapateria;
+GO
+
+CREATE TABLE productos (
+    id INT PRIMARY KEY IDENTITY(1,1),
+    nombre_producto VARCHAR(255) NOT NULL,
+    descripcion VARCHAR(255),
+    precio INT NOT NULL,
+    ultima_modificacion VARCHAR(255)
+);
+GO
+
+CREATE TABLE usuarios (
+    usuario VARCHAR(50) PRIMARY KEY,
+    contrasena VARCHAR(255) NOT NULL,
+    nombre_usuario VARCHAR(255) NOT NULL
+);
+GO
+
+INSERT INTO productos (nombre_producto, descripcion, precio, ultima_modificacion)
+VALUES 
+('Zapato Deportivo', 'Zapato cómodo y ligero para actividades deportivas', 45000, '2024-08-13'),
+('Zapato Formal', 'Zapato elegante de cuero para ocasiones formales', 80000, '2024-08-13'),
+('Bota de Montaña', 'Bota resistente y duradera para trekking', 120000, '2024-08-13');
+
+
+INSERT INTO usuarios (usuario, contrasena, nombre_usuario)
+VALUES 
+('jdoe', 'password123', 'John Doe'),
+('msmith', 'securepass', 'Mary Smith'),
+('ajones', 'mypassword', 'Adam Jones');
+go
